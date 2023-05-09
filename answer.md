@@ -23,12 +23,6 @@ alert( null || 2 && 3 || 4 );
 Теперь результатом является первое истинное значение: 3.  
 
 # Задача 2    
-![image](https://user-images.githubusercontent.com/113675674/210323926-4fd76528-a205-4056-bf4d-8376d11be70d.png)  
-
-# Задача 3    
-![image](https://user-images.githubusercontent.com/113675674/210324045-41c89e3f-7da2-44a5-aa92-173bf6a4e95e.png)  
-
-# Задача 4   
 ![image](https://user-images.githubusercontent.com/113675674/210324147-85f4c817-4bd9-4d2e-b607-053a42090e91.png)  
 В JavaScript, переменная **a** будет пустой строкой, переменная **b** будет числом 7, переменная **c** будет числом 1, а переменная **d** будет числом 2.  
 Оператор **||** в JavaScript возвращает первое "истинное" значение в выражении.  
@@ -37,9 +31,17 @@ alert( null || 2 && 3 || 4 );
 Таким образом, все выражение **a||c && b||d** будет возвращать **1 && 7**, что равно 7. 
 **Результатом будет 7, потому что b является первым "истинным" значением в выражении. **   
 
-# Задача 5    
+
+# Задача 3    
 Код выведет значение переменной c – первое значение из списка, которое может быть преобразовано в false.  
 ![image](https://user-images.githubusercontent.com/113675674/210324278-f3513598-5a41-4c04-b40e-86d486fc823f.png)
+
+# Задача 4   
+![image](https://user-images.githubusercontent.com/113675674/210323926-4fd76528-a205-4056-bf4d-8376d11be70d.png)  
+
+# Задача 5   
+![image](https://user-images.githubusercontent.com/113675674/210324045-41c89e3f-7da2-44a5-aa92-173bf6a4e95e.png)  
+
 
 # Задача 6    
 ![image](https://user-images.githubusercontent.com/113675674/210324968-8398a8f1-d706-4c5c-937e-1ec4c330e33b.png)  
